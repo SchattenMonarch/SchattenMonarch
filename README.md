@@ -5,7 +5,10 @@
 
 ![SchattenMonarch's GitHub stats](https://github-readme-stats.vercel.app/api?username=SchattenMonarch&count_private=true&hide=contribs&show_icons=true&theme=highcontrast)
 
-_"Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at [src/calculateRank.js](https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js)." [(source)](https://github.com/anuraghazra/github-readme-stats)_
+<details>
+  <summary>Click for available ranks</summary>
+"Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the <a href="https://en.wikipedia.org/wiki/Cumulative_distribution_function">cumulative distribution function</a> using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">src/calculateRank.js</a>." (<a href="https://github.com/anuraghazra/github-readme-stats">source</a>)
+</details>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SchattenMonarch&theme=highcontrast)
 
