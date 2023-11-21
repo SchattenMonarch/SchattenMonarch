@@ -7,7 +7,7 @@
 
 <details>
   <summary>Click for available ranks</summary>
-"Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the <a href="https://en.wikipedia.org/wiki/Cumulative_distribution_function">cumulative distribution function</a> using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">src/calculateRank.js</a>." (<a href="https://github.com/anuraghazra/github-readme-stats">source</a>)
+"Note: Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). The values are calculated by using the <a href="https://en.wikipedia.org/wiki/Cumulative_distribution_function">cumulative distribution function</a> using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">src/calculateRank.js</a>." (<a href="https://github.com/anuraghazra/github-readme-stats">source</a>)
 </details>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SchattenMonarch&theme=highcontrast)
